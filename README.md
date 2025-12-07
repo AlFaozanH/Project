@@ -8,7 +8,7 @@ It demonstrates proficiency in file I/O, array-based data management, string man
 The primary goal was to create a functional, persistent data management system that could perform essential CRUD (Create, Read, Update, Delete) operations on customer records, 
 calculating bills based on usage and storing data in a local file.
 
-💡Customer Telecom Billing System (C CLI).
+✍️ Detailed Description.
 
 This project is a robust Command-Line Interface (CLI) application developed in C to simulate a comprehensive customer management and billing solution for a telecommunications environment.
 
