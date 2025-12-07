@@ -1,12 +1,15 @@
-📞 Customer Telecom Billing and Management System (CLI)
+📞 Customer Telecom Billing and Management System (CLI).
+
 This project is a simple command-line interface (CLI) application developed in C to simulate a basic telecom billing and customer record-keeping system. 
 It demonstrates proficiency in file I/O, array-based data management, string manipulation, and procedural programming.
 
-🎯 Project Goal
+🎯 Project Goal.
+
 The primary goal was to create a functional, persistent data management system that could perform essential CRUD (Create, Read, Update, Delete) operations on customer records, 
 calculating bills based on usage and storing data in a local file.
 
-Customer Telecom Billing System (C CLI)
+💡Customer Telecom Billing System (C CLI).
+
 This project is a robust Command-Line Interface (CLI) application developed in C to simulate a comprehensive customer management and billing solution for a telecommunications environment.
 
 The application highlights proficiency in fundamental C concepts and system development practices:
